@@ -18,4 +18,4 @@ Ja to dzestu tad funkcija nepildisies pec veblappas restartēšanas
 
 > Describe the the `addEventListener` method. (Remember that there is a specific, technical, methodical way to describe methods. Your reply should match that format.)
 
-You need to tell it what event it's listening for and what to do when the event occurs.
+Jums jāpasaka viņam, kādu notikumu viņš sagaida un ko darīt, kad tas notiek.
